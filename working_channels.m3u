@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="157353" tvg-name="A SPORTS |SERVER 2|" tvg-logo="https://img.jacreation.com/ib/mWDVE2d8BP.png" group-title="BOSTV | 24x7 | CRICKET |",A SPORTS |SERVER 2|
+http://bosstv.click:8080/live/75764654543/757557556544/157353.ts
+#EXTINF:-1 tvg-id="157363" tvg-name="FOX CRICKET |SERVER 2|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="BOSTV | 24x7 | CRICKET |",FOX CRICKET |SERVER 2|
+http://bosstv.click:8080/live/75764654543/757557556544/157363.m3u8
+#EXTINF:-1 tvg-id="157350" tvg-name="PTV SPORTS |SERVER 1|" tvg-logo="https://jacreation.com/sports/ptv.png" group-title="BOSTV | 24x7 | CRICKET |",PTV SPORTS |SERVER 1|
+http://bosstv.click:8080/live/75764654543/757557556544/157350.ts
+#EXTINF:-1 tvg-id="157479" tvg-name="STAR 4K" tvg-logo="https://pbs.twimg.com/media/FsX9QIyXoAE44Qw.jpg" group-title="BOSTV | 24x7 | CRICKET |",STAR 4K
+http://bosstv.click:8080/live/75764654543/757557556544/157479.ts
+#EXTINF:-1 tvg-id="157483" tvg-name="STAR SPORTS 1 ENG |SERVER 1|" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_xSsPvBvrMBeBXR2Jf_U--mEz8RtUMvECh5g_O1t1nqw.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 1 ENG |SERVER 1|
+http://bosstv.click:8080/live/75764654543/757557556544/157483.m3u8
+#EXTINF:-1 tvg-id="157364" tvg-name="SUPER CRICKET |SERVER 1|" tvg-logo="https://jacreation.com/sports/scricket.png" group-title="BOSTV | 24x7 | CRICKET |",SUPER CRICKET |SERVER 1|
+http://bosstv.click:8080/live/75764654543/757557556544/157364.m3u8
+#EXTINF:-1 tvg-id="157349" tvg-name="TEN SPORTS |SERVER 2|" tvg-logo="https://jacreation.com/sports/tensports.png" group-title="BOSTV | 24x7 | CRICKET |",TEN SPORTS |SERVER 2|
+http://bosstv.click:8080/live/75764654543/757557556544/157349.m3u8
+#EXTINF:-1 tvg-id="157358" tvg-name="WILLOW CRICKET |SERVER 1|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41ljWSNYpH7Zr4_dXjxhcEk-_.png" group-title="BOSTV | 24x7 | CRICKET |",WILLOW CRICKET |SERVER 1|
+http://bosstv.click:8080/live/75764654543/757557556544/157358.m3u8
+#EXTINF:-1 tvg-id="74341" tvg-name="IN: Animal Planet HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Animal Planet HD
+http://bosstv.click:8080/live/75764654543/757557556544/74341.m3u8
+#EXTINF:-1 tvg-id="74464" tvg-name="IN: BBC Earth HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" group-title="HINDI |  DOCUMENTRY VIP",IN: BBC Earth HD
+http://bosstv.click:8080/live/75764654543/757557556544/74464.m3u8
+#EXTINF:-1 tvg-id="74424" tvg-name="IN: Discovery World HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Discovery World HD
+http://bosstv.click:8080/live/75764654543/757557556544/74424.m3u8
+#EXTINF:-1 tvg-id="74499" tvg-name="IN: HISTORY 18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="HINDI |  DOCUMENTRY VIP",IN: HISTORY 18
+http://bosstv.click:8080/live/75764654543/757557556544/74499.m3u8
+#EXTINF:-1 tvg-id="74497" tvg-name="IN: Investigation Discovery HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Investigation Discovery HD
+http://bosstv.click:8080/live/75764654543/757557556544/74497.m3u8
+#EXTINF:-1 tvg-id="74484" tvg-name="IN: Nat Geo" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Nat Geo
+http://bosstv.click:8080/live/75764654543/757557556544/74484.m3u8
+#EXTINF:-1 tvg-id="74485" tvg-name="IN: Nat Geo Wild" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Nat Geo Wild
+http://bosstv.click:8080/live/75764654543/757557556544/74485.m3u8
+#EXTINF:-1 tvg-id="74536" tvg-name="IN: TLC World" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png" group-title="HINDI |  DOCUMENTRY VIP",IN: TLC World
+http://bosstv.click:8080/live/75764654543/757557556544/74536.m3u8
+#EXTINF:-1 tvg-id="74433" tvg-name="IN: Travel XP HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" group-title="HINDI |  DOCUMENTRY VIP",IN: Travel XP HD
+http://bosstv.click:8080/live/75764654543/757557556544/74433.m3u8
+#EXTINF:-1 tvg-id="74959" tvg-name="Pk: Discover Pakistantv TV" tvg-logo="data:image/png;base64,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" group-title="HINDI |  DOCUMENTRY VIP",Pk: Discover Pakistantv TV
+http://bosstv.click:8080/live/75764654543/757557556544/74959.m3u8
+#EXTINF:-1 tvg-id="131614" tvg-name="Wild Flix" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-03_53_45-PM-1-200x300.png" group-title="HINDI |  DOCUMENTRY VIP",Wild Flix
+http://bosstv.click:8080/live/75764654543/757557556544/131614.m3u8
+#EXTINF:-1 tvg-id="74772" tvg-name="IN | Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="HINDI |  ENTERTAINMENT VIP",IN | Zee TV HD
+http://bosstv.click:8080/live/75764654543/757557556544/74772.m3u8
+#EXTINF:-1 tvg-id="126996" tvg-name="24/7 Gopal Bhar" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_44_47-AM-1-200x300.png" group-title="HINDI |  KIDS VIP",24/7 Gopal Bhar
+http://bosstv.click:8080/live/75764654543/757557556544/126996.m3u8
+#EXTINF:-1 tvg-id="92418" tvg-name="Disney Channel" tvg-logo="https://comet-media-nettv.dinesh29.com.np/smart/ardinesh/logos/disney-channel.jpg" group-title="HINDI |  KIDS VIP",Disney Channel
+http://bosstv.click:8080/live/75764654543/757557556544/92418.ts
+#EXTINF:-1 tvg-id="92417" tvg-name="Hungama TV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="HINDI |  KIDS VIP",Hungama TV
+http://bosstv.click:8080/live/75764654543/757557556544/92417.ts
+#EXTINF:-1 tvg-id="158785" tvg-name="Nick (Bangla)" tvg-logo="https://img.jacreation.com/ib/SJmM0rag9r.png" group-title="HINDI |  KIDS VIP",Nick (Bangla)
+http://bosstv.click:8080/live/75764654543/757557556544/158785.ts
+#EXTINF:-1 tvg-id="158786" tvg-name="Nick (Hindi)" tvg-logo="http://vplay.site:2052/images/xXEFgpbb7ybFtZllhmr8vKkOKbOCRUpPTkyYY_SSiyBWJ6EQ5YSQKvWKrd2rRFmx.png" group-title="HINDI |  KIDS VIP",Nick (Hindi)
+http://bosstv.click:8080/live/75764654543/757557556544/158786.ts
+#EXTINF:-1 tvg-id="158787" tvg-name="Nick (Kannada)" tvg-logo="https://img.jacreation.com/ib/SJmM0rag9r.png" group-title="HINDI |  KIDS VIP",Nick (Kannada)
+http://bosstv.click:8080/live/75764654543/757557556544/158787.m3u8
+#EXTINF:-1 tvg-id="92414" tvg-name="Nick SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="HINDI |  KIDS VIP",Nick SD
+http://bosstv.click:8080/live/75764654543/757557556544/92414.m3u8
+#EXTINF:-1 tvg-id="126998" tvg-name="PK | MINIMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-hu.png" group-title="HINDI |  KIDS VIP",PK | MINIMAX HD
+http://bosstv.click:8080/live/75764654543/757557556544/126998.m3u8
+#EXTINF:-1 tvg-id="158797" tvg-name="Pogo (Telugu)" tvg-logo="https://img.jacreation.com/ib/EAna75EyR1.png" group-title="HINDI |  KIDS VIP",Pogo (Telugu)
+http://bosstv.click:8080/live/75764654543/757557556544/158797.ts
+#EXTINF:-1 tvg-id="158771" tvg-name="Sonic (Bangla)" tvg-logo="https://img.jacreation.com/ib/oWr3KXjVjx.png" group-title="HINDI |  KIDS VIP",Sonic (Bangla)
+http://bosstv.click:8080/live/75764654543/757557556544/158771.m3u8
+#EXTINF:-1 tvg-id="158767" tvg-name="Sonic (Hindi)" tvg-logo="https://img.jacreation.com/ib/oWr3KXjVjx.png" group-title="HINDI |  KIDS VIP",Sonic (Hindi)
+http://bosstv.click:8080/live/75764654543/757557556544/158767.ts
+#EXTINF:-1 tvg-id="158768" tvg-name="Sonic (Telugu)" tvg-logo="https://img.jacreation.com/ib/oWr3KXjVjx.png" group-title="HINDI |  KIDS VIP",Sonic (Telugu)
+http://bosstv.click:8080/live/75764654543/757557556544/158768.m3u8
+#EXTINF:-1 tvg-id="127020" tvg-name="balle-balle HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8b/0b/e7/8b0be788-b9e8-d65e-d2d0-40d2bd4ed6a5/0b682144-2acb-4b3a-8b43-06bf788a2085_iPad_Pro__U002812.9-inch_U0029__U00283rd_generation_U0029-1.png/643x0w.jpg" group-title="HINDI |  MUSIC",balle-balle HD
+http://bosstv.click:8080/live/75764654543/757557556544/127020.m3u8
+#EXTINF:-1 tvg-id="62238" tvg-name="IN: Zing ⱽᴵᴾ" tvg-logo="s:1:/images/5AijAPPfr-Q8aTw0nAfL5ZTIgKnhrolxRCNrqNO547dA_pZxHtWI_aXX1qLb2lKmyQMgVobUTm0pC2o6Y5Y7brR6q2cKwd0bpA_7KMIx68J_Qb0LY08RP-XasuCLArJnhLo51nTG4Bc5tzt9u82wQog9gflMcglQMJfu01mWelOayiGSqPsYAIduo2yvJEZybUB-JSWoH1JwO4oF7qCadQ.png" group-title="HINDI |  MUSIC",IN: Zing ⱽᴵᴾ
+http://bosstv.click:8080/live/75764654543/757557556544/62238.m3u8
+#EXTINF:-1 tvg-id="62183" tvg-name="IND: Mastiii ⱽᴵᴾ" tvg-logo="s:1:/images/5AijAPPfr-Q8aTw0nAfL5ZTIgKnhrolxRCNrqNO547dA_pZxHtWI_aXX1qLb2lKmyQMgVobUTm0pC2o6Y5Y7brR6q2cKwd0bpA_7KMIx68Lie-Hg3JycuFX9QgqrO434CzeaeamfRLZiXqD8srs9ms0NAxmIu_QkPjSdoNh8IaaUYcrhm17Ck5hBeo0oqZSM.png" group-title="HINDI |  MUSIC",IND: Mastiii ⱽᴵᴾ
+http://bosstv.click:8080/live/75764654543/757557556544/62183.m3u8
+#EXTINF:-1 tvg-id="62198" tvg-name="IND: Pitaara-tv ⱽᴵᴾ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRYcTtpKHHpuTrl41_AoK9jZupuKrLvKmeA2Eb2MkUsDptrYOCYkqvOx_en_hVZNy5kQ&usqp=CAU" group-title="HINDI |  MUSIC",IND: Pitaara-tv ⱽᴵᴾ
+http://bosstv.click:8080/live/75764654543/757557556544/62198.m3u8
+#EXTINF:-1 tvg-id="62161" tvg-name="IND: Steelbird Music TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-31-2026-03_13_30-PM-1-200x300.png" group-title="HINDI |  MUSIC",IND: Steelbird Music TV
+http://bosstv.click:8080/live/75764654543/757557556544/62161.m3u8
+#EXTINF:-1 tvg-id="118191" tvg-name="JooMusic" tvg-logo="https://www.dthsat.com/images/Joo-Music-Logo.png" group-title="HINDI |  MUSIC",JooMusic
+http://bosstv.click:8080/live/75764654543/757557556544/118191.m3u8
+#EXTINF:-1 tvg-id="118941" tvg-name="only Music hd" tvg-logo="" group-title="HINDI |  MUSIC",only Music hd
+http://bosstv.click:8080/live/75764654543/757557556544/118941.m3u8
+#EXTINF:-1 tvg-id="119654" tvg-name="PK: ARY MUSIK" tvg-logo="http://iptv.4ktezz.top:25461/images/5c6b152cd08a1dccc13a8de0c35c4411.png" group-title="HINDI |  MUSIC",PK: ARY MUSIK
+http://bosstv.click:8080/live/75764654543/757557556544/119654.m3u8
+#EXTINF:-1 tvg-id="119655" tvg-name="PK: JALWA MUSIC" tvg-logo="http://iptv.4ktezz.top:25461/images/fbf797728bb31154a878487c407eea75.png" group-title="HINDI |  MUSIC",PK: JALWA MUSIC
+http://bosstv.click:8080/live/75764654543/757557556544/119655.m3u8
+#EXTINF:-1 tvg-id="118942" tvg-name="PTC Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63498-kqq89g5k-v2/imageContent-63498-kqq89g5k-m3.png" group-title="HINDI |  MUSIC",PTC Music
+http://bosstv.click:8080/live/75764654543/757557556544/118942.m3u8
+#EXTINF:-1 tvg-id="97488" tvg-name="& flix 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",& flix 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97488.m3u8
+#EXTINF:-1 tvg-id="97483" tvg-name="& Picture 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",& Picture 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97483.m3u8
+#EXTINF:-1 tvg-id="97482" tvg-name="&Tv 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",&Tv 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97482.m3u8
+#EXTINF:-1 tvg-id="122109" tvg-name="Asianet 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Asianet 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122109.m3u8
+#EXTINF:-1 tvg-id="97479" tvg-name="Colors 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Colors 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97479.m3u8
+#EXTINF:-1 tvg-id="122094" tvg-name="Colors Bangla 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Colors Bangla 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122094.m3u8
+#EXTINF:-1 tvg-id="97492" tvg-name="colors INFINITY 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",colors INFINITY 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97492.m3u8
+#EXTINF:-1 tvg-id="122102" tvg-name="colors Marathi 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",colors Marathi 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122102.m3u8
+#EXTINF:-1 tvg-id="122106" tvg-name="ETV 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",ETV 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122106.m3u8
+#EXTINF:-1 tvg-id="132270" tvg-name="Gemini Movies 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Gemini Movies 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/132270.m3u8
+#EXTINF:-1 tvg-id="132272" tvg-name="GEMINI TV 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",GEMINI TV 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/132272.ts
+#EXTINF:-1 tvg-id="122091" tvg-name="Jalsha_Movies 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Jalsha_Movies 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122091.m3u8
+#EXTINF:-1 tvg-id="122110" tvg-name="KTV 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",KTV 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122110.m3u8
+#EXTINF:-1 tvg-id="97503" tvg-name="NAT Geo Wild 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",NAT Geo Wild 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97503.ts
+#EXTINF:-1 tvg-id="97487" tvg-name="Sony Max 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Max 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97487.m3u8
+#EXTINF:-1 tvg-id="97489" tvg-name="Sony Pix 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Pix 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97489.m3u8
+#EXTINF:-1 tvg-id="97481" tvg-name="Sony Sab 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Sab 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97481.m3u8
+#EXTINF:-1 tvg-id="97477" tvg-name="Sony SET 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony SET 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97477.m3u8
+#EXTINF:-1 tvg-id="122087" tvg-name="Sony Ten 1 4K Ultra HD." tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Ten 1 4K Ultra HD.
+http://bosstv.click:8080/live/75764654543/757557556544/122087.m3u8
+#EXTINF:-1 tvg-id="122088" tvg-name="Sony Ten 2 4K Ultra HD." tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Ten 2 4K Ultra HD.
+http://bosstv.click:8080/live/75764654543/757557556544/122088.m3u8
+#EXTINF:-1 tvg-id="122089" tvg-name="Sony Ten 3 4K Ultra HD." tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sony Ten 3 4K Ultra HD.
+http://bosstv.click:8080/live/75764654543/757557556544/122089.m3u8
+#EXTINF:-1 tvg-id="97480" tvg-name="Star Bharat 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Bharat 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97480.m3u8
+#EXTINF:-1 tvg-id="97484" tvg-name="Star Gold 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Gold 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97484.m3u8
+#EXTINF:-1 tvg-id="97485" tvg-name="Star Gold Select 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Gold Select 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97485.m3u8
+#EXTINF:-1 tvg-id="122092" tvg-name="Star Jalsha 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Jalsha 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122092.m3u8
+#EXTINF:-1 tvg-id="122104" tvg-name="Star Maa 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Maa 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122104.m3u8
+#EXTINF:-1 tvg-id="122098" tvg-name="Star Maa Mov 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Maa Mov 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122098.m3u8
+#EXTINF:-1 tvg-id="97490" tvg-name="Star Movies 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Movies 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97490.m3u8
+#EXTINF:-1 tvg-id="97478" tvg-name="Star Plus 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Plus 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97478.m3u8
+#EXTINF:-1 tvg-id="122108" tvg-name="Star Pravah 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Pravah 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122108.m3u8
+#EXTINF:-1 tvg-id="122083" tvg-name="Star Sports 1 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Sports 1 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122083.m3u8
+#EXTINF:-1 tvg-id="122084" tvg-name="Star Sports 2 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Star Sports 2 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122084.m3u8
+#EXTINF:-1 tvg-id="122097" tvg-name="Sun Music 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Sun Music 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122097.m3u8
+#EXTINF:-1 tvg-id="122111" tvg-name="SUN TV 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",SUN TV 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122111.m3u8
+#EXTINF:-1 tvg-id="122100" tvg-name="UDAYA 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",UDAYA 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122100.m3u8
+#EXTINF:-1 tvg-id="122090" tvg-name="VIJAY 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",VIJAY 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122090.m3u8
+#EXTINF:-1 tvg-id="122093" tvg-name="Zee Bangla 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Bangla 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122093.m3u8
+#EXTINF:-1 tvg-id="97491" tvg-name="Zee Cafe 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Cafe 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97491.m3u8
+#EXTINF:-1 tvg-id="97486" tvg-name="Zee Cinema 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Cinema 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97486.m3u8
+#EXTINF:-1 tvg-id="132269" tvg-name="Zee Kannada 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Kannada 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/132269.m3u8
+#EXTINF:-1 tvg-id="122099" tvg-name="ZEE MARATHI 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",ZEE MARATHI 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122099.m3u8
+#EXTINF:-1 tvg-id="122103" tvg-name="Zee Tamil 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Tamil 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122103.m3u8
+#EXTINF:-1 tvg-id="122105" tvg-name="Zee Telegu 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",Zee Telegu 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/122105.m3u8
+#EXTINF:-1 tvg-id="97476" tvg-name="ZEE TV 4K Ultra HD" tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="INDIA | ULTRA HD 4k",ZEE TV 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/97476.m3u8
+#EXTINF:-1 tvg-id="86115" tvg-name="|PK| HUM TV HD ᴴᴰ" tvg-logo="s:1:/images/j1byexZQa2Z4n-wmkG6dRY8KH0Nx9PBSvw5LyTY1uElNl3NuXIUI0HjhqWaAvPbYER9CuRxeKghht_KiByZk0Q.png" group-title="PAK |  ENTERTAINMENT VIP",|PK| HUM TV HD ᴴᴰ
+http://bosstv.click:8080/live/75764654543/757557556544/86115.m3u8
+#EXTINF:-1 tvg-id="156125" tvg-name="BeIN Sports 1" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUQi2AlEs0R71w6YWmOpr4731VV-WcOMq2BuAEAfw-44t.png" group-title="SPORTS |  CRICKET 4k",BeIN Sports 1
+http://bosstv.click:8080/live/75764654543/757557556544/156125.m3u8
+#EXTINF:-1 tvg-id="156127" tvg-name="BeIN Sports 3" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUd4WDyLcjyQY-zHFfLTmDyM8RUMDSbcWtwCjNp1LMlXs.png" group-title="SPORTS |  CRICKET 4k",BeIN Sports 3
+http://bosstv.click:8080/live/75764654543/757557556544/156127.ts
+#EXTINF:-1 tvg-id="93297" tvg-name="Cricket | A Sports HD" tvg-logo="https://img.jacreation.com/ib/mWDVE2d8BP.png" group-title="SPORTS |  CRICKET 4k",Cricket | A Sports HD
+http://bosstv.click:8080/live/75764654543/757557556544/93297.m3u8
+#EXTINF:-1 tvg-id="92702" tvg-name="Cricket | Fox Sports 501 HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS |  CRICKET 4k",Cricket | Fox Sports 501 HD
+http://bosstv.click:8080/live/75764654543/757557556544/92702.ts
+#EXTINF:-1 tvg-id="93306" tvg-name="Cricket | SONY TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS |  CRICKET 4k",Cricket | SONY TEN 1 HD
+http://bosstv.click:8080/live/75764654543/757557556544/93306.m3u8
+#EXTINF:-1 tvg-id="93308" tvg-name="Cricket | SONY TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS |  CRICKET 4k",Cricket | SONY TEN 3 HD
+http://bosstv.click:8080/live/75764654543/757557556544/93308.m3u8
+#EXTINF:-1 tvg-id="93305" tvg-name="Cricket | Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports Select 2 HD
+http://bosstv.click:8080/live/75764654543/757557556544/93305.m3u8
+#EXTINF:-1 tvg-id="94404" tvg-name="Cricket | TNT sports" tvg-logo="https://www.skycards.eu/wp-content/uploads/2023/02/Untitled-design-2023-07-27T093417.786.png" group-title="SPORTS |  CRICKET 4k",Cricket | TNT sports
+http://bosstv.click:8080/live/75764654543/757557556544/94404.ts
+#EXTINF:-1 tvg-id="92700" tvg-name="Cricket | Willow Cricket HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41ljWSNYpH7Zr4_dXjxhcEk-_.png" group-title="SPORTS |  CRICKET 4k",Cricket | Willow Cricket HD
+http://bosstv.click:8080/live/75764654543/757557556544/92700.m3u8
+#EXTINF:-1 tvg-id="158834" tvg-name="FOX SPORTS 505 HD" tvg-logo="http://vplay.site:2052/images/uqlXlmh9DDX12vCB2Itc9_pGM40gMMabSNSo-yeUXbEFqxlzzjMRYIKke3RK3Cps.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 505 HD
+http://bosstv.click:8080/live/75764654543/757557556544/158834.m3u8
+#EXTINF:-1 tvg-id="74240" tvg-name="IN: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",IN: DD SPORTS
+http://bosstv.click:8080/live/75764654543/757557556544/74240.m3u8
+#EXTINF:-1 tvg-id="74228" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 1 Hindi 4K Ultra HD
+http://bosstv.click:8080/live/75764654543/757557556544/74228.m3u8
+#EXTINF:-1 tvg-id="50032" tvg-name="PK: 7 News HDᴴᴰ" tvg-logo="" group-title="URDU |  NEWS",PK: 7 News HDᴴᴰ
+http://bosstv.click:8080/live/75764654543/757557556544/50032.m3u8
+#EXTINF:-1 tvg-id="50031" tvg-name="PK: CHANNEL 5ᴴᴰ" tvg-logo="https://jazztv.pk/jazzlive/uploads/channels/logo/channel-five-live.png" group-title="URDU |  NEWS",PK: CHANNEL 5ᴴᴰ
+http://bosstv.click:8080/live/75764654543/757557556544/50031.ts
+#EXTINF:-1 tvg-id="119750" tvg-name="PK: Ptv World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16b_y0Vo8OzU22ZFxB8pqx06t_UEL3_dkRU3fLR0MnwHTCkrho3xdSV6kwPZN4SKIVok&usqp=CAU" group-title="URDU |  NEWS",PK: Ptv World
+http://bosstv.click:8080/live/75764654543/757557556544/119750.ts
